@@ -1,0 +1,9 @@
+{
+  "name": "semantic-golgi",
+  "version": "1.0.0",
+  "description": "Golgi Semantic-Ui Admin Template",
+  "main": "index.js",
+  "repository": "https://github.com/LeoWyatt666/golgi",
+  "author": "FayazK",
+  "license": "MIT"
+}
